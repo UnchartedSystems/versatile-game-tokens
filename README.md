@@ -12,8 +12,21 @@ These tokens have tiny pegs and holes along the top & bottom to allow for easy a
 I've found you can wring a lot of creative use out of this simple token design for creating varied games! If you've found a token design that enables more versatility, share it under issues!
 
 ![a game where info is concealed by using joined game tokens to conceal dice](img/photo_4_2026-03-24_04-46-27.jpg)
+
+Here is a game where dice are concealed within joined tokens, with the dice representing a hidden token 'combat power'. These feel quite satisfying to move around.
+
 ![later in that game, some dice have been revealed by removing the top game token](img/photo_5_2026-03-24_04-46-27.jpg)
+
+Later in this game, the top piece of some tokens has been removed to reveal the internal die state.
 
 ![close up of tiny game token pegs](img/photo_3_2026-03-24_04-46-27.jpg)
 
+These are the pegs that make stacking pieces easy and robust.
+
 ![close up of dice carrying functionality](img/photo_2_2026-03-24_04-44-00.jpg)
+
+You can see that these dice fit snuggly but there's no friction when pulling a die out of a token, so it is easy to reconfigure these dice.
+
+![nearly stacked tokens](img/photo_2026-03-24_05-14-48.jpg)
+
+Pegs neatly align with holes on both the top & bottom.
