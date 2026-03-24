@@ -7,7 +7,7 @@ These tokens fit neatly on chess & hex boards. They can:
 * Carry a die.
 * 2 tokens can join to conceal the internal state of a die inside.
 
-These tokens have tiny pegs and holes along the top & bottom to allow for easy and robust snapping and stacking. These pegs might require precision from your 3D printer, I used a 0.2mm nozzle. If you don't want pegs create an issue and I'll track down & upload an earlier iteration without them.
+These tokens have tiny pegs and holes along the top & bottom to allow for easy and robust snapping and stacking. These pegs might require precision from your 3D printer, I used a 0.2mm nozzle. If you want a version without pegs then create an issue and I'll track down & upload an earlier iteration without them.
 
 I've found you can wring a lot of creative use out of this simple token design for creating varied games! If you've found a token design that enables more versatility, share it under issues!
 
