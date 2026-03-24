@@ -1,4 +1,4 @@
-# versatile-game-tokens
+# Versatile Game Tokens
 Multi functional dice holding game tokens for designing board games and playing [A Series Of Interesting Choices](https://www.eriksvedang.com/aseriesofinterestingchoices/), which I discovered through the creator Erik Svedang of [Carp Lisp](https://github.com/carp-lang/Carp).
 
 These tokens fit neatly on chess & hex boards. They can:
